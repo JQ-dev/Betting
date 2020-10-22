@@ -1,0 +1,142 @@
+log,player1,player2,service,game1,game2,score,odds1,odds2
+2019-09-06 16:24:05,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,15,40,"[6, 7][0, 0][-, -]",0.28,0.79
+2019-09-06 16:24:10,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,0,"[6, 7][0, 1][-, -]",0.24,0.83
+2019-09-06 16:25:04,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,15,"[6, 7][0, 1][-, -]",0.22,0.85
+2019-09-06 16:25:36,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,30,"[6, 7][0, 1][-, -]",0.22,0.85
+2019-09-06 16:25:42,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,30,"[6, 7][0, 1][-, -]",0.2,0.87
+2019-09-06 16:26:14,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,30,"[6, 7][0, 1][-, -]",0.2,0.87
+2019-09-06 16:26:19,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,30,"[6, 7][0, 1][-, -]",0.22,0.85
+2019-09-06 16:26:40,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,40,"[6, 7][0, 1][-, -]",0.22,0.85
+2019-09-06 16:26:46,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,40,"[6, 7][0, 1][-, -]",0.2,0.87
+2019-09-06 16:27:18,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,30,40,"[6, 7][0, 1][-, -]",0.22,0.85
+2019-09-06 16:27:50,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,0,0,"[6, 7][0, 2][-, -]",0.19,0.88
+2019-09-06 16:28:16,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,15,0,"[6, 7][0, 2][-, -]",0.19,0.88
+2019-09-06 16:28:22,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,15,0,"[6, 7][0, 2][-, -]",0.21,0.86
+2019-09-06 16:28:38,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,0,"[6, 7][0, 2][-, -]",0.22,0.85
+2019-09-06 16:29:21,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,15,"[6, 7][0, 2][-, -]",0.21,0.86
+2019-09-06 16:29:42,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,15,"[6, 7][0, 2][-, -]",0.2,0.87
+2019-09-06 16:30:03,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,30,"[6, 7][0, 2][-, -]",0.18,0.88
+2019-09-06 16:30:30,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,30,"[6, 7][0, 2][-, -]",0.17,0.89
+2019-09-06 16:30:35,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,40,"[6, 7][0, 2][-, -]",0.17,0.89
+2019-09-06 16:30:41,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,40,"[6, 7][0, 2][-, -]",0.15,0.93
+2019-09-06 16:31:02,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,40,"[6, 7][0, 2][-, -]",0.14,0.93
+2019-09-06 16:31:13,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,0,"[6, 7][0, 3][-, -]",0.1,0.97
+2019-09-06 16:32:48,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,15,"[6, 7][0, 3][-, -]",0.09,0.98
+2019-09-06 16:33:20,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,30,"[6, 7][0, 3][-, -]",0.07,0.99
+2019-09-06 16:33:47,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,40,"[6, 7][0, 3][-, -]",0.07,0.99
+2019-09-06 16:33:52,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,40,"[6, 7][0, 3][-, -]",0.06,0.99
+2019-09-06 16:34:08,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,0,0,"[6, 7][0, 4][-, -]",0.05,0.99
+2019-09-06 16:35:07,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,15,0,"[6, 7][0, 4][-, -]",0.06,0.99
+2019-09-06 16:35:44,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,0,"[6, 7][0, 4][-, -]",0.06,0.99
+2019-09-06 16:36:05,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,0,"[6, 7][0, 4][-, -]",0.06,0.99
+2019-09-06 16:36:26,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,0,"[6, 7][1, 4][-, -]",0.07,0.99
+2019-09-06 16:38:01,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,15,"[6, 7][1, 4][-, -]",0.05,0.99
+2019-09-06 16:38:22,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,0,15,"[6, 7][1, 4][-, -]",0.06,0.99
+2019-09-06 16:38:28,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,15,"[6, 7][1, 4][-, -]",0.06,0.99
+2019-09-06 16:38:33,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,15,"[6, 7][1, 4][-, -]",0.07,0.99
+2019-09-06 16:39:15,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,30,"[6, 7][1, 4][-, -]",0.05,0.99
+2019-09-06 16:40:03,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,40,"[6, 7][1, 4][-, -]",0.04,0.99
+2019-09-06 16:40:30,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,0,0,"[6, 7][1, 5][-, -]",0.04,0.99
+2019-09-06 16:40:35,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,0,0,"[6, 7][1, 5][-, -]",0.03,0.99
+2019-09-06 16:42:52,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,30,15,"[6, 7][1, 5][-, -]",0.03,0.99
+2019-09-06 16:51:11,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,15,15,"[6, 7][2, 5][-, -]",0.03,0.99
+2019-09-06 16:51:37,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,30,15,"[6, 7][2, 5][-, -]",0.04,0.99
+2019-09-06 16:52:03,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,30,15,"[6, 7][2, 5][-, -]",0.05,0.99
+2019-09-06 16:52:14,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player2,40,15,"[6, 7][2, 5][-, -]",0.06,0.99
+2019-09-06 16:54:54,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,15,0,"[6, 7][3, 5][-, -]",0.1,0.97
+2019-09-06 16:57:45,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,30,"[6, 7][3, 5][-, -]",0.11,0.96
+2019-09-06 16:57:51,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,40,"[6, 7][3, 5][-, -]",0.09,0.98
+2019-09-06 16:58:43,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,ADV,"[6, 7][3, 5][-, -]",0.06,0.99
+2019-09-06 16:59:14,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,40,"[6, 7][3, 5][-, -]",0.06,0.99
+2019-09-06 16:59:56,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,ADV,"[6, 7][3, 5][-, -]",0.09,0.98
+2019-09-06 17:04:14,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,ADV,40,"[6, 7][3, 5][-, -]",0.11,0.96
+2019-09-06 17:04:19,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,40,"[6, 7][3, 5][-, -]",0.11,0.96
+2019-09-06 17:04:56,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,ADV,40,"[6, 7][3, 5][-, -]",0.1,0.97
+2019-09-06 17:05:53,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,40,"[6, 7][3, 5][-, -]",0.08,0.99
+2019-09-06 17:08:20,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,ADV,"[6, 7][3, 5][-, -]",0.05,0.99
+2019-09-06 17:08:46,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,40,"[6, 7][3, 5][-, -]",0.05,0.99
+2019-09-06 17:09:07,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,ADV,40,"[6, 7][3, 5][-, -]",0.09,0.98
+2019-09-06 17:11:28,Philipp Kohlschreiber (GER),Guido Andreozzi (ARG),player1,40,ADV,"[6, 7][3, 5][-, -]",0.04,0.99
+2019-09-06 17:12:15,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,0,2,"[6, 6][-, -][-, -][-, -][-, -]",0.51,0.56
+2019-09-06 17:12:20,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,1,2,"[6, 6][-, -][-, -][-, -][-, -]",0.51,0.56
+2019-09-06 17:12:26,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,1,2,"[6, 6][-, -][-, -][-, -][-, -]",0.56,0.51
+2019-09-06 17:13:38,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,2,2,"[6, 6][-, -][-, -][-, -][-, -]",0.63,0.44
+2019-09-06 17:13:44,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,2,2,"[6, 6][-, -][-, -][-, -][-, -]",0.64,0.43
+2019-09-06 17:13:54,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,3,2,"[6, 6][-, -][-, -][-, -][-, -]",0.64,0.43
+2019-09-06 17:13:59,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,3,2,"[6, 6][-, -][-, -][-, -][-, -]",0.69,0.38
+2019-09-06 17:14:41,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,4,2,"[6, 6][-, -][-, -][-, -][-, -]",0.74,0.33
+2019-09-06 17:15:18,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,4,2,"[6, 6][-, -][-, -][-, -][-, -]",0.74,0.34
+2019-09-06 17:15:23,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,4,3,"[6, 6][-, -][-, -][-, -][-, -]",0.74,0.34
+2019-09-06 17:15:28,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,4,3,"[6, 6][-, -][-, -][-, -][-, -]",0.69,0.38
+2019-09-06 17:15:49,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,4,3,"[6, 6][-, -][-, -][-, -][-, -]",0.67,0.41
+2019-09-06 17:15:54,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,4,3,"[6, 6][-, -][-, -][-, -][-, -]",0.68,0.39
+2019-09-06 17:16:10,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,5,3,"[6, 6][-, -][-, -][-, -][-, -]",0.68,0.39
+2019-09-06 17:16:15,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,5,3,"[6, 6][-, -][-, -][-, -][-, -]",0.74,0.34
+2019-09-06 17:16:41,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,4,"[6, 6][-, -][-, -][-, -][-, -]",0.74,0.34
+2019-09-06 17:16:46,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,4,"[6, 6][-, -][-, -][-, -][-, -]",0.69,0.38
+2019-09-06 17:17:18,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,4,"[6, 6][-, -][-, -][-, -][-, -]",0.68,0.39
+2019-09-06 17:17:23,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,5,"[6, 6][-, -][-, -][-, -][-, -]",0.68,0.39
+2019-09-06 17:17:28,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,5,"[6, 6][-, -][-, -][-, -][-, -]",0.61,0.47
+2019-09-06 17:17:54,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,5,"[6, 6][-, -][-, -][-, -][-, -]",0.58,0.49
+2019-09-06 17:18:05,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,5,5,"[6, 6][-, -][-, -][-, -][-, -]",0.6,0.48
+2019-09-06 17:18:20,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,6,5,"[6, 6][-, -][-, -][-, -][-, -]",0.6,0.48
+2019-09-06 17:18:25,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,6,5,"[6, 6][-, -][-, -][-, -][-, -]",0.69,0.38
+2019-09-06 17:19:02,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,6,5,"[6, 6][-, -][-, -][-, -][-, -]",0.71,0.36
+2019-09-06 17:19:23,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,0,0,"[7, 6][0, 0][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:23:13,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,0,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.75,0.31
+2019-09-06 17:23:29,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,15,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.75,0.32
+2019-09-06 17:23:35,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,15,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:23:50,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,30,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:23:56,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,30,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:24:06,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:24:12,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,15,"[7, 6][0, 0][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:24:22,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,30,"[7, 6][0, 0][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:24:27,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,30,"[7, 6][0, 0][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:24:48,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,30,"[7, 6][0, 0][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:24:54,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,40,"[7, 6][0, 0][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:24:59,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,40,"[7, 6][0, 0][-, -][-, -][-, -]",0.77,0.3
+2019-09-06 17:25:15,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,40,"[7, 6][0, 0][-, -][-, -][-, -]",0.75,0.32
+2019-09-06 17:25:20,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,ADV,40,"[7, 6][0, 0][-, -][-, -][-, -]",0.75,0.32
+2019-09-06 17:25:25,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,ADV,40,"[7, 6][0, 0][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:26:29,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,ADV,"[7, 6][0, 0][-, -][-, -][-, -]",0.71,0.35
+2019-09-06 17:26:45,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,ADV,"[7, 6][0, 0][-, -][-, -][-, -]",0.71,0.36
+2019-09-06 17:26:50,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,0,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.71,0.36
+2019-09-06 17:26:55,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,0,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.67,0.4
+2019-09-06 17:27:48,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,0,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.67,0.41
+2019-09-06 17:27:53,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.67,0.41
+2019-09-06 17:27:58,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.69,0.38
+2019-09-06 17:28:35,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.7,0.36
+2019-09-06 17:28:51,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,30,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.74,0.34
+2019-09-06 17:29:23,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,40,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.74,0.34
+2019-09-06 17:29:28,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,40,0,"[7, 6][0, 1][-, -][-, -][-, -]",0.77,0.3
+2019-09-06 17:30:00,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,0,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:30:27,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,15,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:30:32,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,15,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:30:42,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,15,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:30:53,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,30,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:30:58,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,30,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:31:14,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:31:19,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,0,"[7, 6][1, 1][-, -][-, -][-, -]",0.83,0.24
+2019-09-06 17:31:30,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,15,"[7, 6][1, 1][-, -][-, -][-, -]",0.83,0.24
+2019-09-06 17:31:35,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,15,"[7, 6][1, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:31:56,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,30,"[7, 6][1, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:32:02,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,40,30,"[7, 6][1, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:32:33,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,0,0,"[7, 6][2, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:32:39,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,0,0,"[7, 6][2, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:34:50,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,0,15,"[7, 6][2, 1][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:35:11,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,15,"[7, 6][2, 1][-, -][-, -][-, -]",0.78,0.29
+2019-09-06 17:35:16,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,15,"[7, 6][2, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:35:43,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,30,"[7, 6][2, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:35:48,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,15,30,"[7, 6][2, 1][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:36:25,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,30,30,"[7, 6][2, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:36:57,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,30,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:37:02,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,30,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.79,0.28
+2019-09-06 17:37:28,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,30,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:37:44,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,40,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.8,0.27
+2019-09-06 17:37:49,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,40,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:39:18,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,ADV,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.84,0.23
+2019-09-06 17:39:24,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,ADV,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.85,0.22
+2019-09-06 17:39:34,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,40,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.85,0.22
+2019-09-06 17:40:38,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player2,ADV,40,"[7, 6][2, 1][-, -][-, -][-, -]",0.82,0.25
+2019-09-06 17:41:20,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,0,0,"[7, 6][3, 1][-, -][-, -][-, -]",0.84,0.23
+2019-09-06 17:41:26,Daniil Medvedev (RUS),Grigor Dimitrov (BUL),player1,0,0,"[7, 6][3, 1][-, -][-, -][-, -]",0.89,0.18
